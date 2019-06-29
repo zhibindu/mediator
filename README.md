@@ -1,4 +1,4 @@
-mediator
+Zhibin Du
 ========
 
 A medium inspired Jekyll blog theme. The basic idea came from the Ghost theme
